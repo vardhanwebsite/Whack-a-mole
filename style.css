@@ -103,7 +103,7 @@ button.stop{
 
 @media (max-width:555px) {
 
-body{
-    heigth:555px
+.container{
+    heigth:655px
 }
 
